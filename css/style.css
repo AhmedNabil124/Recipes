@@ -1,0 +1,11 @@
+.recipe-img{
+    height: 200px;
+}
+a{
+    cursor: pointer;
+}
+header{
+  background-image: url(../images/bg.jpg);
+  background-size: cover;
+  background-position: center center;
+}
